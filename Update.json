@@ -1,7 +1,7 @@
 {
     "result": "success",
-    "version": "3.18.1",
-    "url": "https://www.icloud.com/shortcuts/8779529dc9ac4c1eaf89bb6d2742efa7",
-    "notes": "Removed deprecated authentication prompt (see documentation for recommended solutions), several code improvements (3.18.1: update issue hotfix)",
-    "release": "October 22, 2022"
+    "version": "0.2",
+    "url": "https://www.icloud.com/shortcuts/667c84438fb74e4aa8c3eef79a1874ba",
+    "notes": "Vesion 0.2 of KYTDownloaderDLT",
+    "release": "23-4-8"
 }
